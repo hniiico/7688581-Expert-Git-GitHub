@@ -17,7 +17,7 @@ A définir
 
 ### Installation
 
-Voici les étapes à suivre pour avoir un environnement de développement et de test opérationnel :modifier le fichier la ligne 20
+Voici les étapes à suivre pour avoir un environnement de développement et de test opérationnel :modification le 21 22 
 
 
 ```
